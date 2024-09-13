@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\bin\Debug\net8.0\BhaskaraTest.deps.json
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\bin\Debug\net8.0\BhaskaraTest.dll
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\bin\Debug\net8.0\BhaskaraTest.pdb
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\BhaskaraTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\BhaskaraTest.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\BhaskaraTest.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\BhaskaraTest.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\BhaskaraTest.dll
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\refint\BhaskaraTest.dll
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\BhaskaraTest.pdb
+C:\Users\SENAI3EM\Desktop\BhaskaraTest\BhaskaraTest\BhaskaraTest\obj\Debug\net8.0\ref\BhaskaraTest.dll

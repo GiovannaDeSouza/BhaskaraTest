@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\BhaskaraTest\\BhaskaraTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F31AF1-6F56-437E-91AC-806E0F67DB3A}|BhaskaraTeste\\BhaskaraTeste.csproj|c:\\users\\senai3em\\desktop\\bhaskaratest\\bhaskaratest\\bhaskarateste\\testebhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F31AF1-6F56-437E-91AC-806E0F67DB3A}|BhaskaraTeste\\BhaskaraTeste.csproj|solutionrelative:bhaskarateste\\testebhaskara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E49D2D-5F71-44E6-AA6C-C001DD563562}|BhaskaraTest\\BhaskaraTest.csproj|c:\\users\\senai3em\\desktop\\bhaskaratest\\bhaskaratest\\bhaskaratest\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E49D2D-5F71-44E6-AA6C-C001DD563562}|BhaskaraTest\\BhaskaraTest.csproj|solutionrelative:bhaskaratest\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteBhaskara.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\BhaskaraTest\\BhaskaraTest\\BhaskaraTeste\\TesteBhaskara.cs",
+              "RelativeDocumentMoniker": "BhaskaraTeste\\TesteBhaskara.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\BhaskaraTest\\BhaskaraTest\\BhaskaraTeste\\TesteBhaskara.cs",
+              "RelativeToolTip": "BhaskaraTeste\\TesteBhaskara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:59:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\BhaskaraTest\\BhaskaraTest\\BhaskaraTest\\Calculadora.cs",
+              "RelativeDocumentMoniker": "BhaskaraTest\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\BhaskaraTest\\BhaskaraTest\\BhaskaraTest\\Calculadora.cs",
+              "RelativeToolTip": "BhaskaraTest\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:41:20.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
